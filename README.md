@@ -2,7 +2,7 @@
 
 Simple Vue based web application for creating payment QR codes in **PAY by square (Slovakia)** and **SPD (Czech Republic)** format.
 
-## Highlights
+### Features
 
 - PAY by square and SPD payment QR codes
 - option to select a tip for a new payment QR
